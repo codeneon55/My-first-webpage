@@ -223,6 +223,10 @@ body {
   font-size: 60px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+.comment{
+  font-size: 30px;
+  font-family: gabriola  ;
+}
 .lo {
   margin: 10px;
   border: 4px solid black;
@@ -339,3 +343,4 @@ iframe {
     from { opacity: 0; transform: translateY(-90px);}
     to { opacity: 1; transform: translateY(0); }
 }
+
