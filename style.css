@@ -24,10 +24,6 @@ body {
   flex-wrap: wrap;
   gap: 20px;*/
 }
-.kad textarea {
-  font-family: gabriola;
-  font-size: 2px;
-}
 
 .logo {
   position: relative;
@@ -188,7 +184,7 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .kad textarea{
-  font-size: 40px;
+  font-size: 20px;
   font-family: gabriola;
 }
 .progress {
@@ -347,5 +343,6 @@ iframe {
     from { opacity: 0; transform: translateY(-90px);}
     to { opacity: 1; transform: translateY(0); }
 }
+
 
 
